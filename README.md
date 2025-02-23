@@ -26,6 +26,6 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/kelvyn-henrique-martins-887aa5212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://cursos.alura.com.br/user/kelvynhmartins26" target="_blank"><img src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" target="_blank"></a> 
+  <a href="https://cursos.alura.com.br/user/kelvynhmartins26" target="_blank"><img src="https://drive.google.com/u/0/drive-viewer/AKGpihb0Xfl8m9bF3t0bYI7KjoAk6PH4G8pCucZ3viBWSo-H0zrQH-eqJYIH2uzzQ3P5wTtT3cUcaeKKHrO7lAgV4gPh54E1F37XiIk=s2560" target="_blank"></a> 
   
 </div>
