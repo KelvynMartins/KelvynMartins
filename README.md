@@ -3,7 +3,7 @@
 <img align="center" alt="hello,world" height="200em" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>
   
 - 👾 Tenho 23 anos e moro em **Cascavel-PR** <img align="right" alt="pc" height="200em" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
-- 👾 Atualmente trabalho como **Dev Full Stack**, porém tenho como foco migrar para o desenvolvimento
+- 👾 Atualmente trabalho como **Dev Full Stack**
 - 👾 Faço **Engenharia de Software** na Anhanguera e também utilizo a **Alura**
   
 <br>
